@@ -1,2 +1,2 @@
 # simple-search-engine
-Training project written on Kotlin from Hyperskill track
+Training project written in Kotlin from Hyperskill track
